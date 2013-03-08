@@ -39,11 +39,14 @@ This is less true in United States where we have many laws for different privacy
 Both FIPPS and Nissenbaum's Contextual Integrity have two problems that make them ineffective public policy. The former is too myopic to be effective and is instead expensive and does not achieve meaningful public policy goals. The latter is unpredictable, and, if Nissenbaum's purity is to remain as our policymaking guide, threatens some basic tenets of the knowledge economy: open and robust flow of data. A third way forward is the harms framework introduced earlier, sometimes also called the economic framework (esp. Posner 1978). The balance of this paper will argue the harms framework, when paired with an agile policymaking structure, is able to overcome its own shortcomings and serve as a better guide for privacy than either FIPPS or Contextual Integrity.
 
 <!-- A framework for understanding when to say no, or yes, to use of personal data based on potential or actual consequences of its use -->
-The harms framework champoined by Posner, MacCarthy, Cate and many others 
+
 
 <!-- The dicey situation of preventing harm balanced against the First Amendment and other rights granted by the Constitution. Privacy not being one of them. -->
 
+
 <!-- Harms typically shows up more in courts, especially tort cases, than in legislation. How do you legislate against harm when your goal is to legislate on privacy? -->
+
+
 
 ## Object Oreinted Policymaking (OOP)
 
