@@ -3,17 +3,42 @@
 ## Intro
 
 <!-- Introduction: the deficit of privacy frameworks: goal oriented poicymaking -->
-As a philosophical topic, privacy is relatively new and whether it is a fundamental human right has generated serious debate over the past few centuries.
+As a philosophical topic, privacy is relatively new and the extent to which it is a fundamental human right has generated serious debate over the past few centuries. Informed by these debates are three theoretical frameworks utilized by policymakers for tackling information privacy issues: fair information practices principles, harms, and contextual integrity. All three are appealing in some important ways, but ultimately the harms framework emerges as the most adept foundation for making responsive public policy.
 
- three theoretical frameworks: fair information practices, harms, and contextual integrity. All three are appealing in some ways. The Fair Information Practices Principles (FIPPS) give us the important notion of informed consent, that privacy should only be surrendered if the individual is able to choose to disclose information about him or her self. Another, contextual integrity, rests on the idea that appropriate privacy public policy should be informed by the social norms of what is considered appropriate information flow and handling in different contexts. The harm framework is most intriguing if only for its seemingly simple premise: data usage should only be restricted when it hurts. It obviously gets more complicated than that, particularly when scaled out to entire societies, but all policy decisions should revert back to what harms are done, to whom, and is it substantially larger than the good derived to society? What the harm framework—and indeed the other frameworks too—lacks is a mechanism for determining how to actually make policy, that is, how to _prevent_ harm rather than react to it. 
+<!-- The Fair Information Practices Principles (FIPPS) give us the important notion of informed consent, that privacy should only be surrendered if the individual is able to choose to disclose information about him or her self. Another, contextual integrity, rests on the idea that appropriate privacy public policy should be informed by the social norms of what is considered appropriate information flow and handling in different contexts. The harm framework is most intriguing if only for its seemingly simple premise: data usage should only be restricted when it hurts. It obviously gets more complicated than that, particularly when scaled out to entire societies, but all policy decisions should revert back to what harms are done, to whom, and is it substantially larger than the good derived to society? What the harm framework—and indeed the other frameworks too—lacks is a mechanism for determining how to actually make policy, that is, how to _prevent_ harm rather than react to it.  -->
 
 <!-- this paper will fill this void giving a way for making normative policy around the harms framework. -->
 The following aruges for a way forward for making policy around the harm framework borrowing concepts from software development as a theoretical foundation. The first section argues that other frameworks, particulary the conventional Fair Information Practices Principles and the persuasive Contextual Integrity, are inadequate public policy guides because they focus on the means of privacy rather than the ends of achieving a desired public policy outcomes. The final section outlines a mechanism  revolving around the harm framework championed by Posner, Cate, MacCarthy and others that involves a combination of corrective tort action, and small pieces of legislation directed at specific public policy outcomes. This agile public policymaking system is the way forward for information privacy, especially as these issues become more complicated.
 
-<!-- What is FIP and what is it good for? -->
-##FIPPS: The Well-Intentioned Enumeration
+## Philosophical foundations of the information privacy debate
 
-The harm framework is useful and powerful for assessing isolated events or macro-level practices: determining whether someone should prevail in a tort case, or assessing the outsized good of mandatory participation in the credit rating system are good examples of this. But, it is no wonder that it is typically absent from major privacy legislation or regulations, it is not a prescriptive way of thinking about public policy. The Fair Information Practices principles are much more suited to policymaking because they lay out five to eight or more specific components that are required of different actors. FIPPS requires things like informed consent: we should be given some idea of what will be done with our information when we hand it over and we should also take affirmative action to authorize the use. FIPPS typically also contain statements about our rights to access and correct information stored about us and mandates to keep the data secured from unauthorized prying eyes.  FIPPS work well in settings like HIPPA where doctors and patients have an undersigned agreement about who should have access to sensitive medical information and for what purposes it can be used. The patient is given the opportunity to read the policy before seeing the doctor, and, presumably, is able to make an informed decision about signing the privacy statement.
+<!-- Bentham -->
+While there is no shortage of philosophies about human privacy, there are three whose works were particularly relevant to contemporary discussions of information privacy both over the Internet and offline. The hard utilitarian view of Jeremy Bentham, the more tempered one of John Stuart Mill, and the Immanuel Kant's libertarianism have significant value to the conversation about privacy rights and policy in the information economy.
+
+Jeremy Bentham's utilitarian view of privacy as one economic preference out of many informed his famous advocacy for the panopticon prison. In his view, the rights of the prisoners to go about their lives in their cells privately outweighed the value of a more efficient prison system, and so a prison system based on total surveillence was considered the better option. Bentham's brutal utilitarianism saw rights and laws as human creations, tools for evaluating the sum of total happieness in society. Any laws created or decisions made should go to improve that value.
+
+<!-- Kant -->
+Bentham stood in contrast to other philosophers like Immanuel Kant who took a friendlier view toward human rights and privacy in particular. Privacy, for Kant, was one among many rights that deserved protection. An individual's right to privacy was part and parcel of his or her human dignity. Invading privacy was akin to any other assualt that reduces one huamn over another. Kant's theory was famously flawed for not providing a means of differentiating what was a right and not.
+
+<!-- Mill -->
+If Kant and Bentham were opposed, John Stuart Mill offered some middle ground. Mill was a utilitarian less focused on happienss as he was on progress of humankind. Progress, Mill argued, does not always make every individual or group happy, nor should it, but he also recognized that it _could_ do harm. The government's job, then, was to intervene when societal progess turned into societal harm. Privacy was ultimately a good thing to protect because of the variance and experimentation it encouraged. Echoing Bentham's notion that privacy can affect an individual's behavior, Mill recognized that a lack of it could impinge an individual's ability to experiment with radical ideas and a lack of experimentation in society would ultimately harm it. Thus, privacy, while maybe not a right, was certainly worth protecting. For Mill, intrusions into individual privacy are done at the risk of inhibiting that individual's ability to contribute to society in meaningful ways.
+
+Modern information privacy frameworks can be found in penumbrae of these three philosopher's ideas about personal privacy and the extent to which it should be protected. In the Fair Information Pracitce Principles and Contextual Integrity we see the influence of Kant's concern for individual rights and liberties, but we also see some notion of the utilitarian caution against overreaching regulation.
+
+<!-- What are the FIPPs and what are they good for? -->
+## FIPPS: The Well-Intentioned Enumeration
+
+In 1973 the Department of Health, Education, and Welfare called upon Congress to adopt a "Code of fair information practices" with five specific directions in which information should be handled. These have since become known as the Fair Information Practices Principles (FIPPs) of information privacy as they have replicated through the United STates and the world as standards for privacy policy (Cate, 2006). The five original principles were:
+
+1. A database's existence should not be secret (transparency).
+2. An individual should have some means of finding out what information about him or her is in a database (accessability).
+3. Information collected for one purpose should not be used for another without the individual's consent (transparency).
+4. A person should be able to amend information about him or her contained in the database (correctability).
+5. The organization or person who owns the database must assue the database's reliability (quality and security) (Cate, 2006).
+
+These five were adopted into law by the Federal Privacy Act of 1974 to protect individuals from potentially harmful information contained in federal databases.
+
+FIPPS work well in settings like HIPPA where doctors and patients have an undersigned agreement about who should have access to sensitive medical information and for what purposes it can be used. The patient is given the opportunity to read the policy before seeing the doctor, and, presumably, is able to make an informed decision about signing the privacy statement.
 
 <!-- Where do FIPPS run afoul -->
 FIPPS run aground when applied to the wrong kind of scenario. In online services involving personal data collection, FIPPS policies result in long, meandering agreements written by corporate attorneys that individuals are supposed read before using the service. Some of these can reach upward of 8,000 words. These policies are laden with jargon and almost always go un-read (fewer than 1% of users read privacy policies). The opportunity cost for reading them is simply too high. McDonald and Cranor found the total cost to the American economy if everyone were to actually read the privacy policies of the websites they visit "on the order of $781 billion" and that number did not include time to make an informed decision about whether to accept of reject the policy and how it stood compared with other websites and services. If nobody is reading the statements to which they are agreeing, the FIP framework is not accomplishing any favorable public policy. In fact, it may be doing more harm than good.
@@ -51,11 +76,11 @@ The harms framework champoined by Posner, MacCarthy, Cate and many others
 
 <!-- What is OOP in programming? What is it in policymaking? -->
 
- ### Government as a Platform (GAAP), O'Riley
+### Government as a Platform (GAAP), O'Riley
 
- ### Algorithmic regulation
+### Algorithmic regulation
 
- ### Agile Policymaking
+### Agile Policymaking
 
 <!-- Properties of Agile Programming -->
 
