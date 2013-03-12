@@ -5,8 +5,6 @@
 <!-- Introduction: the deficit of privacy frameworks: goal oriented poicymaking -->
 As a philosophical topic, privacy is relatively new and the extent to which it is a fundamental human right has generated serious debate over the past few centuries. Informed by these debates are three theoretical frameworks utilized by policymakers for tackling information privacy issues: fair information practices principles, harms, and contextual integrity. All three are appealing in some important ways, but ultimately the harms framework emerges as the most adept foundation for making responsive public policy.
 
-<!-- The Fair Information Practices Principles (FIPPS) give us the important notion of informed consent, that privacy should only be surrendered if the individual is able to choose to disclose information about him or her self. Another, contextual integrity, rests on the idea that appropriate privacy public policy should be informed by the social norms of what is considered appropriate information flow and handling in different contexts. The harm framework is most intriguing if only for its seemingly simple premise: data usage should only be restricted when it hurts. It obviously gets more complicated than that, particularly when scaled out to entire societies, but all policy decisions should revert back to what harms are done, to whom, and is it substantially larger than the good derived to society? What the harm framework—and indeed the other frameworks too—lacks is a mechanism for determining how to actually make policy, that is, how to _prevent_ harm rather than react to it.  -->
-
 <!-- this paper will fill this void giving a way for making normative policy around the harms framework. -->
 The following aruges for a way forward for making policy around the harm framework borrowing concepts from software development as a theoretical foundation. The first section argues that other frameworks, particulary the conventional Fair Information Practices Principles and the persuasive Contextual Integrity, are inadequate public policy guides because they focus on the means of privacy rather than the ends of achieving a desired public policy outcomes. The final section outlines a mechanism  revolving around the harm framework championed by Posner, Cate, MacCarthy and others that involves a combination of corrective tort action, and small pieces of legislation directed at specific public policy outcomes. This agile public policymaking system is the way forward for information privacy, especially as these issues become more complicated.
 
@@ -80,11 +78,6 @@ The harms framework traces its roots back to the personal privacy theories of Jo
 <!-- Mill's influence -->
 Mill was particularly concerned with the adverse affects of government intervention on progress, and this view has had incredible staying power. Judge Richard Posner took a similar view calling privacy an economic problem (as it was indeed an economic interest) in 1978 when he anticipated the continued importance of information to industry. The problem is that information based industries demand disclosure of private information.
 
-<!-- The Google Problem: Where's the harm? 
-Take the Google problem. Google introduced Gmail in 2004 and with it offered Post Office Protocol (POP3) access and 1 gigabyte of email storage for free at a time when its competitors offered far less service without paying for email service ([Craddock, 2010](http://blogs.windows.com/windows_live/b/windowslive/archive/2010/01/06/a-short-history-of-hotmail.aspx)). How did it manage to make strike this deal? It displayed ads that appeared within the HTML application interface. Google made a bet that if the ads and the product were good enough, it would generate enough revenue to keep the product viable without users paying for it. The were good because they were relevant to the emails the user sent and recieved. Google scanned the emails already for spam detection purposes, and made secondary use of those scans as contextual data to serve ads. If you were corresponding with someone about moving to Minneapolis, you might get ads for real estate websites in Minnesota alongside your email content.
-
-Google certianly argued that context sensitive advertising was a benefit to its users, and it was quite novel in the early 2000s. Most online advertising was random or curated as in the old days of newspaper advertising. Ads were also obtrusive, using pop-ups, sounds, flashing images, and even video to try and steal attention away from the content. Google's ads were text-based, a simple link along side. -->
-
 ## Patients Like Me: Where's the harm?
 
 Take the PatientsLikeMe example introduced earlier. The website functions as a symptom, condition, and treatment research center for patients suffering from eleven different chronic or terminal conditions. Through the site, members enter "demographic information, logitudinal treatment, sympotoms, outcome data, and treatment evaluations," plus their unique condition including "treatment histories adn evaluations on thousands of medical products" (Frost, et al 2011). The question for the harms framework is, should we stop this because it violates patient privacy? For the contextual integrity framework that answer certainly seemed to be yes.
@@ -112,23 +105,3 @@ There will be future policy made in the US about online and information privacy,
 Imagine PatientsLikeMe left a backdoor in their servers that allowed a nefarious black hat access to their entire trove of personal health information which were then published in a newspaper. Perhaps they left the backdoor open because they did not know enough about cybersecurity to detect it; they are a small start-up with employees stretched thinly in the face of rapid growth, after all. It seems hard to justify punishing them, plus they had no legal obligation to keep those data secure under current policy. Now imagine if there were a US Cybersecurity Platform giving small companies like PLM ready-built tools to deploy and prevent cyber attacks. If they do not at least adhere to these standards, they can be held accountable for data loss. Such a platform would lower the barrier to entry in the online marketplace and also give citizens a robust means of discovering what measures are in place to protect them, and what happens to their data once they transfer it.
 
 In order for any of this to happen, Congress and the Federal government need to transition away from a mode of legislation based on doing as much as possible to one that does very little, very well, and thus has a very big impact. If they start with privacy, we will be better off as citizens, and as consumers.
-
-<!-- ### Agile Policymaking -->
-<!-- Properties of Agile Programming -->
-<!-- * Individuals and interactions over processes and tools
-* Working software over comprehensive documentation
-* Responding to change over following a plan
-* Customer collaboration over contract negotiation -->
-
-<!-- Translated to policy...-->
-
-<!-- 
-* Citizens and public policy goals over special interests and tax incentives?
-* Working policy over single undertaking
-* Responding to change over following an _x_-point plan 1⁄2
-* Citizen collaboration over citizen appeasement -->
-
-<!-- Applied to Privacy -->
-
-<!-- What are the public policy goals? -->
-
