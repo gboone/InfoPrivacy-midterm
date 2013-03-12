@@ -102,10 +102,18 @@ For Government 2.0 the privacy problem is broader than just what government does
 
 ### Algorithmic regulation
 
-_Open Government_ publisher Tim O'Riley's chapter covers a concept called "Government As A Platform" (GAAP). He urges readers to think of government as existing alongside other successful technological platforms.
+_Open Government_ publisher Tim O'Riley's chapter covers a concept called "Government As A Platform" (GAAP). He urges readers to think of government as existing alongside other successful technological platforms. O'Riley's model puts government first as the infrastructural provider for a society based on openness and interoperability.
 
-### Agile Policymaking
+<!-- Make a simple system based on harm for online privacy -->
+O'Riley says the first step is to build "simple systems" and let them grow over time. Simple systems that work may evolve into complex systems that work. What we have in the current American privacy regime is a complex system that does not work, and it should be replaced by a simple system that does, one that weighs the harms over the benefits of data usage and favors innovation and progress based on open standards set by an open government.
 
+There will be future policy made in the US about online and information privacy, the question is how and when. What Congress should do, and the FTC and other regulatory agencies in their absence, is take on a far less grand, but perhaps far more effective task of creating a simple policy that can serve as infrastructure atop which third parties can structure their data processing and collection proceedures. This "policy programming interface" would be an open system for considering the harms of a particular data collection or use practice and then write in an open, transparent standard for preventing the harm either by attaching penalties for engagin it or simply making it a less attractive option.
+
+Imagine PatientsLikeMe left a backdoor in their servers that allowed a nefarious black hat access to their entire trove of personal health information which were then published in a newspaper. Perhaps they left the backdoor open because they did not know enough about cybersecurity to detect it; they are a small start-up with employees stretched thinly in the face of rapid growth, after all. It seems hard to justify punishing them, plus they had no legal obligation to keep those data secure under current policy. Now imagine if there were a US Cybersecurity Platform giving small companies like PLM ready-built tools to deploy and prevent cyber attacks. If they do not at least adhere to these standards, they can be held accountable for data loss. Such a platform would lower the barrier to entry in the online marketplace and also give citizens a robust means of discovering what measures are in place to protect them, and what happens to their data once they transfer it.
+
+In order for any of this to happen, Congress and the Federal government need to transition away from a mode of legislation based on doing as much as possible to one that does very little, very well, and thus has a very big impact. If they start with privacy, we will be better off as citizens, and as consumers.
+
+<!-- ### Agile Policymaking -->
 <!-- Properties of Agile Programming -->
 <!-- * Individuals and interactions over processes and tools
 * Working software over comprehensive documentation
@@ -124,4 +132,3 @@ _Open Government_ publisher Tim O'Riley's chapter covers a concept called "Gover
 
 <!-- What are the public policy goals? -->
 
-<!-- What -->
