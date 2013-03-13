@@ -111,9 +111,9 @@ In order for any of this to happen, Congress and the Federal government need to 
 4. Nissenbaum, Helen, _Privacy in Context_, 2010, Stanford University Press.
 5. Richard Posner, The Right of Privacy, 12 Georgia Law Review 393 (1978) pp.393 - 404
 6. PatientsLikeMe, "Privacy". 2013. URL: http://patientslikeme.com/about/privacy
-7. Mill
-8. Kant
-9. Bentham
+7. Mill, John Stuart, _On Liberty_, 1863
+8. Kant, Immanuel, _Groundwork for the Metaphysic of Morals_, 1785
+9. Bentham, Jeremy The Panopticon Writings. Ed. Miran Bozovic (London: Verso, 1995). p. 29-95 URL: http://cartome.org/panopticon2.htm Accessed: 2013-03-12
 10. MacDonald and Cranor, 2008
 11. Muris, Timothy, "Protecting Consumers' Privacy", 2001, Delivered at "The Privacy Conference 2001," Cleveland, OH. URL: http://www.ftc.gov/speeches/muris/privisp1002.shtm
 12. Frost, Jeana;  Okun, Sally;  Vaughan, Timothy;  Heywood, James;  Wicks, Paul, "Patient-reported outcomes as a source of evidence in off-label prescribing: analysis of data from PatientsLikeMe", 2011, _Journal of medical Internet research_ vol. 13 (1) p. e6 
